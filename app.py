@@ -2,9 +2,7 @@
 import streamlit as st
 import os
 
-from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
-from langchain_groq import ChatGroq
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import PyPDFLoader, TextLoader
 from langchain_community.vectorstores import FAISS
