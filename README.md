@@ -1,6 +1,6 @@
 # 🏦 RBI Policy Document Analyser
 
-An AI-powered RAG (Retrieval-Augmented Generation) application that lets you upload RBI circulars, monetary policy reports, or notifications and ask questions about them in plain English — with instant summaries, economic implications, and key policy decisions.
+An AI-powered RAG (Retrieval-Augmented Generation) application that lets you upload RBI circulars, monetary policy reports, or notifications and ask questions about them in English — with instant summaries, economic implications, and key policy decisions.
 
 🔗 **Live Demo:** [rbi-policy-analyser.streamlit.app](https://rbi-policy-analyser.streamlit.app)
 
